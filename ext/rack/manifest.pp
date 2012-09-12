@@ -1,4 +1,4 @@
-
+#this is just to "submit" a pull request
 file { ["/etc/puppet/rack", "/etc/puppet/rack/public"]:
   ensure => directory,
   mode => 0755,
